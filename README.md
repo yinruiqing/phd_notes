@@ -1,1 +1,3 @@
-# phd_notes
+#Notes
+## First year
+1. Clustering method.
